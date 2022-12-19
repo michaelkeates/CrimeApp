@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/580135325/89a2213a-42f8-40a7-ace0-f389f4a5ee16" width="512px"/>
 </p>
-<h1 align="center">OutlawHess</h1>
+<h1 align="center">CrimeApp</h1>
 For my Individual Product I decided to create a mobile app for both iOS and Android using Xamarin and built with C#. The reason was I never created an mobile app before and I have a strong interest in displaying large amount of data on a screen which in this case displaying crime coordinates on a map. While the main app is built using C#, I had to learn how to code using XAML which is for the visual appearence of the app.
 <br></br>
 <br></br>
