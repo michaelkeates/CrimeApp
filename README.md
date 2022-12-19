@@ -6,7 +6,7 @@ For my Individual Product I decided to create a mobile app for both iOS and Andr
 <br></br>
 <br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/Screenshot_20220131-232858.jpg" width="512px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2022/07/crimealertapp_iphone.jpg" width="512px"/>
 </p>
 <br></br>
 <h2 align="left">Description</h1>
