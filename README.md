@@ -22,6 +22,8 @@ For my Individual Product I decided to create a mobile app for both iOS and Andr
 <li>Implemented a notification circle on the main form to allow the manager to know how many products are still open.</li>
 </ul>
 
+<br></br>
+
 This project was quite an undertaking due to the fact that I would be developing a solution on two different platforms and that in the beginning I had no experience with using Xamarin to develop mobile apps.However, I yearn and welcome a challenge in producing a solution that I hope shows my determination and attention to detail within my final solution. Xamarin is indeed a natural choice as it allows to create a cross-platform app that when developed with the same code can be simulated or run on Android and iOS, however as I found during the development process it isn’t as straight forward as I initially thought with which it involved at times implementing different ways to get a single feature working, while one implementation worked on one platform, there were times when it didn’t work on the other. It took 5 months to build the app from the beginning to the present final state prior to my presentation.
 
 <br></br>
