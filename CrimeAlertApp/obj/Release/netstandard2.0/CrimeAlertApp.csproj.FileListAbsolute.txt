@@ -1,0 +1,24 @@
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/CrimeAlertApp.deps.json
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/CrimeAlertApp.dll
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/ref/CrimeAlertApp.dll
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/CrimeAlertApp.pdb
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.csproj.AssemblyReference.cache
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.AssemblyInfoInputs.cache
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.AssemblyInfo.cs
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/XamlC.stamp
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.dll
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/ref/CrimeAlertApp.dll
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.pdb
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/PoliceUK.dll
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/bin/Release/netstandard2.0/PoliceUK.pdb
+/Users/mike/Projects/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.csproj.CopyComplete
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.AssemblyInfoInputs.cache
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.AssemblyInfo.cs
+/Users/mike/Documents/Projects/Microsoft Visual Studio/macOS/CrimeAlertApp/CrimeAlertApp/obj/Release/netstandard2.0/CrimeAlertApp.csproj.CoreCompileInputs.cache
