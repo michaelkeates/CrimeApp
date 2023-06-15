@@ -48,8 +48,8 @@ This project was quite an undertaking due to the fact that I would be developing
 <br></br>
 <h2 align="left">Images</h1>
 
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_iphone.jpg" width="30%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_samsung.jpg" width="38%"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_iphone.jpg" width="100%"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_samsung.jpg" width="100%"/>
 
 <br></br>
 
