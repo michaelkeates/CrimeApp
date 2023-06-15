@@ -48,11 +48,9 @@ This project was quite an undertaking due to the fact that I would be developing
 <br></br>
 <h2 align="left">Images</h1>
 
-<p align="center">
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_iphone.jpg" width="30%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/crimealertapp_samsung.jpg" width="38%"/>
 
-</p>
 <br></br>
 
 <h2 align="left">Getting Started</h1>
