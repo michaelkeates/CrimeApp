@@ -36,9 +36,6 @@ For my Individual Product I decided to create a mobile app for both iOS and Andr
 <li>Implement a 'bottom draw' which will allow the user to toggle on/off different types of crimes to be displayed on the map.</li>
 <li>Have the app available for both iOS and Android.</li>
 <li>Allow the user to search for post codes as well as use the device to get the users' current location using Geolocation.</li>
-<li>Allow the manager to run the end of tax year updates to the database. All account balances should be updated with accrued interest; the accrued interest should then be reset to zero and the customer’s deposit allowances reset.</li>
-<li>Implemented a simple encryption to the database for security as well as a login form for admins.</li>
-<li>Implemented a notification circle on the main form to allow the manager to know how many products are still open.</li>
 </ul>
 
 <br></br>
